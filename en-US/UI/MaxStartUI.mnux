@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <ADSK_MNU>
     <MenuContexts>
         <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1" title="Main Menu Bar" menuID="0" />
@@ -81,45 +81,48 @@
         </MenuContext>
         <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1567997" title="Render Dialog Menu Bar" menuID="238" />
         <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1744264583" title="" />
+        <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1163576136" title="" />
+        <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1101794312" title="Arnold" />
     </MenuContexts>
     <MenuManager>
         <Menu title="Main Menu Bar" flags="1">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="1" flat="0" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="351" flat="0" customTitle="&amp;Edit" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="351" flat="0" customTitle="Edit" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="352" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="279" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="354" flat="0" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="430" flat="0" customTitle="&amp;Create" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="431" flat="0" customTitle="&amp;Modifiers" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="376" flat="0" customTitle="&amp;Animation" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="430" flat="0" customTitle="Create" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="431" flat="0" customTitle="Modifiers" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="376" flat="0" customTitle="Animation" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="375" flat="0" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="356" flat="0" customTitle="&amp;Rendering" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="359" flat="0" customTitle="C&amp;ustomize" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="254" flat="0" customTitle="&amp;Scripting" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="356" flat="0" customTitle="Rendering" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="359" flat="0" customTitle="Customize" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="254" flat="0" customTitle="Scripting" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="486" flat="0" customTitle="Civil View" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="449" flat="0" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="360" flat="0" customTitle="&amp;Help" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="360" flat="0" customTitle="Help" />
         </Menu>
-        <Menu title="&amp;File">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="456" flat="0" customTitle="&amp;New" />
+        <Menu title="File">
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="456" flat="0" customTitle="New" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40005" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40003" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="143" flat="0" customTitle="Open Recen&amp;t" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40086" customTitle="&amp;View Image File..." />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="143" flat="0" customTitle="Open Recent" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40086" customTitle="View Image File..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40006" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40007" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40903" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40008" customTitle="Save Selecte&amp;d..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40008" customTitle="Save Selected..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40085" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="458" flat="0" customTitle="&amp;Import" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="459" flat="0" customTitle="&amp;Export" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="458" flat="0" customTitle="Import" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="459" flat="0" customTitle="Export" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="2071557443" actionID="0" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="460" flat="0" customTitle="&amp;Send to" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="461" flat="0" customTitle="&amp;Reference" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="460" flat="0" customTitle="Send to" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="461" flat="0" customTitle="Reference" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="466" flat="0" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40047" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40374" customTitle="&amp;File Properties..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40374" customTitle="File Properties..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40108" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40013" />
@@ -159,7 +162,7 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40213" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object &amp;Properties..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object Properties..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchFCurveEditor`Track View" customTitle="Curve Editor..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchDopeSheetEditor`Track View" customTitle="Dope Sheet..." />
@@ -393,7 +396,7 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40213" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object &amp;Properties..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object Properties..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="12" flat="0" customTitle="Convert To:" />
         </Menu>
@@ -479,7 +482,7 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MotionBlurToggle`Render" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object &amp;Properties..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object Properties..." />
         </Menu>
         <Menu title="render" flags="2">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50031" />
@@ -685,13 +688,13 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ActivateHomeGrid`Objects Helpers" />
         </Menu>
         <Menu title="Schematic View Menu Bar" flags="1">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="129" flat="0" customTitle="&amp;Edit" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="128" flat="0" customTitle="&amp;Select" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="153" flat="0" customTitle="L&amp;ist Views" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="129" flat="0" customTitle="Edit" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="128" flat="0" customTitle="Select" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="153" flat="0" customTitle="List Views" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="152" flat="0" customTitle="Layout" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="130" flat="0" customTitle="&amp;Options" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="175" flat="0" customTitle="&amp;Display" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="151" flat="0" customTitle="&amp;View" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="130" flat="0" customTitle="Options" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="175" flat="0" customTitle="Display" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="151" flat="0" customTitle="View" />
         </Menu>
         <Menu title="edit" flags="2">
             <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="1100" customTitle="Connect" />
@@ -754,7 +757,7 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="174" flat="0" />
         </Menu>
         <Menu title="controllers" flags="2">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="520" customTitle="&amp;Properties..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="520" customTitle="Properties..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="440" customTitle="Assign Controller..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -850,7 +853,7 @@
         <Menu title="UVW Unwrap - UVW Edit">
             <Item mode="2" modeName="AM_ITEM" actionTableID="2077580866" actionID="40052" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="2077580866" actionID="40053" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2077580866" actionID="40054" customTitle="Paste &amp; Weld" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2077580866" actionID="40054" customTitle="Paste  Weld" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="2077580866" actionID="40007" customTitle="Move Mode" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="2077580866" actionID="40008" customTitle="Rotate Mode" />
@@ -935,38 +938,38 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="2077580866" actionID="40018" />
         </Menu>
         <Menu title="Track View - Editing Mode">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SwitchToFCurveEditor`Track View" customTitle="&amp;Curve Editor..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SwitchToFCurveEditor`Track View" customTitle="Curve Editor..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SwitchDopeSheetEditor`Track View" customTitle="&amp;Dope Sheet..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SwitchDopeSheetEditor`Track View" customTitle="Dope Sheet..." />
         </Menu>
         <Menu title="Track View - Keys">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="280" customTitle="&amp;Insert Keys" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="280" customTitle="Insert Keys" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="630" customTitle="&amp;Reduce Keys" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="630" customTitle="Reduce Keys" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2020" customTitle="&amp;Move" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="380" customTitle="&amp;Slide" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="480" customTitle="S&amp;cale Values" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="230" customTitle="Scale Keys - &amp;Time" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2020" customTitle="Move" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="380" customTitle="Slide" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="480" customTitle="Scale Values" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="230" customTitle="Scale Keys - Time" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="485" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Use_SoftSelect`Track View" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SoftSelect_Settings`Track View" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="270" customTitle="Ali&amp;gn to Cursor" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="270" customTitle="Align to Cursor" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2000" customTitle="S&amp;nap Frames" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2000" customTitle="Snap Frames" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="486" />
         </Menu>
         <Menu title="Track View - Controller">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="440" customTitle="&amp;Assign..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="440" customTitle="Assign..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="690" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2400" customTitle="Keyable" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="610" customTitle="&amp;Copy" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="620" customTitle="&amp;Paste" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="610" customTitle="Copy" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="620" customTitle="Paste" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="collapseController`Track View" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -975,25 +978,25 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="760" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="761" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="450" customTitle="Make &amp;Unique" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="450" customTitle="Make Unique" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="460" customTitle="&amp;Out-of-Range Types..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="460" customTitle="Out-of-Range Types..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="520" customTitle="P&amp;roperties..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="520" customTitle="Properties..." />
         </Menu>
         <Menu title="Track View - Utilities">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="670" customTitle="&amp;Track View Utilities..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="670" customTitle="Track View Utilities..." />
         </Menu>
         <Menu title="Track View - Curve Editor - Menu Bar (Classic)" flags="1">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="98" flat="0" customTitle="&amp;Modes" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="100" flat="0" customTitle="&amp;Controller" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="110" flat="0" customTitle="&amp;Tracks" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="99" flat="0" customTitle="&amp;Keys" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="107" flat="0" customTitle="&amp;Curves" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="98" flat="0" customTitle="Modes" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="100" flat="0" customTitle="Controller" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="110" flat="0" customTitle="Tracks" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="99" flat="0" customTitle="Keys" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="107" flat="0" customTitle="Curves" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="177" flat="0" customTitle="Options" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="111" flat="0" customTitle="&amp;Display" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="111" flat="0" customTitle="Display" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="174" flat="0" customTitle="View" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="101" flat="0" customTitle="&amp;Utilities" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="101" flat="0" customTitle="Utilities" />
         </Menu>
         <Menu title="Track View - Dope Sheet - Menu Bar">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="218" flat="0" customTitle="Editor" />
@@ -1001,19 +1004,19 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="225" flat="0" customTitle="View" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="226" flat="0" customTitle="Curves" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="227" flat="0" customTitle="Keys" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="104" flat="0" customTitle="&amp;Time" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="104" flat="0" customTitle="Time" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="230" flat="0" customTitle="Show" />
         </Menu>
         <Menu title="Track View - Edit Time">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2050" customTitle="&amp;Select" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2050" customTitle="Select" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="340" customTitle="&amp;Insert" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="340" customTitle="Insert" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="350" customTitle="&amp;Cut " />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="360" customTitle="Cop&amp;y" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="370" customTitle="&amp;Paste" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="350" customTitle="Cut " />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="360" customTitle="Copy" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="370" customTitle="Paste" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="400" customTitle="&amp;Reverse" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="400" customTitle="Reverse" />
         </Menu>
         <Menu title="Controller Range Menu Bar">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="98" flat="0" customTitle="Modes" />
@@ -1023,8 +1026,8 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="99" flat="0" customTitle="Keys" />
         </Menu>
         <Menu title="Track View - Visibility Track">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="640" customTitle="&amp;Add" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="650" customTitle="&amp;Remove" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="640" customTitle="Add" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="650" customTitle="Remove" />
         </Menu>
         <Menu title="Track View - Curves">
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2120" customTitle="Apply - Ease Curve" />
@@ -1037,58 +1040,58 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="570" customTitle="Multiplier Curve Out-of-Range Types..." />
         </Menu>
         <Menu title="Track View - Note Track">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="580" customTitle="&amp;Add" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="590" customTitle="&amp;Remove" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="580" customTitle="Add" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="590" customTitle="Remove" />
         </Menu>
         <Menu title="Track View - Key Tangents">
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="475" customTitle="Show  All" />
         </Menu>
         <Menu title="Track View - Tracks">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="108" flat="1" customTitle="&amp;Note Track" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="108" flat="1" customTitle="Note Track" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="106" flat="1" customTitle="&amp;Visibility Track" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="106" flat="1" customTitle="Visibility Track" />
         </Menu>
         <Menu title="Track View - Display">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2290" customTitle="Selected &amp;Key Stats" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ShowAllTangents`Track View" customTitle="All &amp;Tangents" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2290" customTitle="Selected Key Stats" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ShowAllTangents`Track View" customTitle="All Tangents" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Toggle_Custom_Icons`Track View" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Toggle_Keyable_Icons`Track View" customTitle="&amp;Keyable Icons" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Toggle_Keyable_Icons`Track View" customTitle="Keyable Icons" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Toggle_Unlocked_Icons`Track View" customTitle="Lock Toggle Icons" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="HideNonselectedCurves`Track View" customTitle="&amp;Hide Non-Selected Curves" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ShowNonselectedCurves`Track View" customTitle="&amp;Show Non-Selected Curves" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="FreezeNonselectedCurves`Track View" customTitle="Free&amp;ze Non-Selected Curves" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="HideNonselectedCurves`Track View" customTitle="Hide Non-Selected Curves" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ShowNonselectedCurves`Track View" customTitle="Show Non-Selected Curves" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="FreezeNonselectedCurves`Track View" customTitle="Freeze Non-Selected Curves" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="330" customTitle="&amp;Filters..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="330" customTitle="Filters..." />
         </Menu>
         <Menu title="Track View - Settings" />
         <Menu title="Track View - Auto Expand">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Selected_Only`Track View" customTitle="&amp;Selected Objects Only" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Selected_Only`Track View" customTitle="Selected Objects Only" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Transforms`Track View" customTitle="&amp;Transforms" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_XYZ`Track View" customTitle="&amp;XYZ Components" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="752" customTitle="&amp;Limits" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Transforms`Track View" customTitle="Transforms" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_XYZ`Track View" customTitle="XYZ Components" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="752" customTitle="Limits" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="750" customTitle="&amp;Keyable" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="751" customTitle="&amp;Animated" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="750" customTitle="Keyable" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="751" customTitle="Animated" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Objects`Track View" customTitle="&amp;Base Objects" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Modifiers`Animation Object" customTitle="&amp;Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Materials`Track View" customTitle="&amp;Materials" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Objects`Track View" customTitle="Base Objects" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Modifiers`Animation Object" customTitle="Modifiers" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Materials`Track View" customTitle="Materials" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Children`Track View" customTitle="&amp;Children" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Children`Track View" customTitle="Children" />
         </Menu>
         <Menu title="Track View - Auto Select">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Animated`Track View" customTitle="&amp;Animated" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Animated`Track View" customTitle="Animated" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Position`Track View" customTitle="&amp;Position" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Rotation`Track View" customTitle="&amp;Rotation" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Scale`Track View" customTitle="&amp;Scale" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Position`Track View" customTitle="Position" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Rotation`Track View" customTitle="Rotation" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Select_Scale`Track View" customTitle="Scale" />
         </Menu>
         <Menu title="Track View - Auto Scroll">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Scroll_To_Selected`Track View" customTitle="&amp;Selected" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Scroll_To_Root`Track View" customTitle="&amp;Objects" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Scroll_To_Selected`Track View" customTitle="Selected" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Scroll_To_Root`Track View" customTitle="Objects" />
         </Menu>
         <Menu title="track view key" flags="2">
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2020" />
@@ -1149,33 +1152,33 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
         </Menu>
         <Menu title="Track View - Auto Expand Quad">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Children`Track View" customTitle="&amp;Children" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Children`Track View" customTitle="Children" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Materials`Track View" customTitle="M&amp;aterials" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Modifiers`Animation Object" customTitle="&amp;Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Objects`Track View" customTitle="&amp;Base Objects" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Materials`Track View" customTitle="Materials" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Modifiers`Animation Object" customTitle="Modifiers" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Objects`Track View" customTitle="Base Objects" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="751" customTitle="&amp;Animated" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="750" customTitle="&amp;Keyable" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="751" customTitle="Animated" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="750" customTitle="Keyable" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="752" customTitle="&amp;Limits" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_XYZ`Track View" customTitle="&amp;XYZ Components" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Transforms`Track View" customTitle="&amp;Transforms" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="752" customTitle="Limits" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_XYZ`Track View" customTitle="XYZ Components" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Transforms`Track View" customTitle="Transforms" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Selected_Only`Track View" customTitle="&amp;Selected Objects Only" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Auto_Expand_Selected_Only`Track View" customTitle="Selected Objects Only" />
         </Menu>
         <Menu title="SchematicView - Select">
             <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="500" customTitle="Select Tool" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2020" customTitle="Select All" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2040" customTitle="Select &amp;None" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2030" customTitle="Select &amp;Invert" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2040" customTitle="Select None" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2030" customTitle="Select Invert" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2050" customTitle="Select &amp;Children" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2060" customTitle="&amp;Deselect Children" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2050" customTitle="Select Children" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2060" customTitle="Deselect Children" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2070" customTitle="Select &amp;to Scene" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2080" customTitle="Select &amp;From Scene" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2070" customTitle="Select to Scene" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="2080" customTitle="Select From Scene" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SVSyncSelection`Schematic View" />
         </Menu>
@@ -1193,65 +1196,65 @@
         <Menu title="SchematicView - Options">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SVAlwaysArrange`Schematic View" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="1600" customTitle="&amp;Hierarchy Mode" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="1500" customTitle="&amp;Reference Mode" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="1600" customTitle="Hierarchy Mode" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="1500" customTitle="Reference Mode" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="4060" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="5" actionID="200" customTitle="Preferences..." />
         </Menu>
         <Menu title="Medit - Material">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1069" customTitle="&amp;Get Material..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1101" customTitle="&amp;Pick from Object" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1069" customTitle="Get Material..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1101" customTitle="Pick from Object" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1096" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40832" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1074" customTitle="&amp;Assign to Selection" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1073" customTitle="P&amp;ut to Scene" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1077" customTitle="Put to &amp;Library..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1074" customTitle="Assign to Selection" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1073" customTitle="Put to Scene" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1077" customTitle="Put to Library..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1127" customTitle="&amp;Change Material/Map Type..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1071" customTitle="Ma&amp;ke Material Copy" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1127" customTitle="Change Material/Map Type..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1071" customTitle="Make Material Copy" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40296" customTitle="&amp;Launch Magnify Window" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40296" customTitle="Launch Magnify Window" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="4614521" actionID="1" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1402" customTitle="Mak&amp;e Preview..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1403" customTitle="&amp;View Preview" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1404" customTitle="&amp;Save Preview..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1402" customTitle="Make Preview..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1403" customTitle="View Preview" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1404" customTitle="Save Preview..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="10062" customTitle="Show End &amp;Result" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="10062" customTitle="Show End Result" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="182" flat="0" customTitle="Show Materials in Viewport As" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40272" customTitle="Reset Sample Slot Ro&amp;tation" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40272" customTitle="Reset Sample Slot Rotation" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1399" customTitle="Up&amp;date Active Material" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1399" customTitle="Update Active Material" />
         </Menu>
         <Menu title="Medit - Navigation">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1398" customTitle="Go to &amp;Parent" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1400" customTitle="Go &amp;Forward to Sibling" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1401" customTitle="Go &amp;Backward to Sibling" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1398" customTitle="Go to Parent" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1400" customTitle="Go Forward to Sibling" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1401" customTitle="Go Backward to Sibling" />
         </Menu>
         <Menu title="Medit - Options">
             <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1595" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1156" customTitle="Manual &amp;Update Toggle" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40270" customTitle="Copy/Rotate &amp;Drag Mode Toggle" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1156" customTitle="Manual Update Toggle" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40270" customTitle="Copy/Rotate Drag Mode Toggle" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1094" customTitle="&amp;Background" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1192" customTitle="Custom Background &amp;Toggle" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1094" customTitle="Background" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1192" customTitle="Custom Background Toggle" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1093" customTitle="Back&amp;light" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40293" customTitle="C&amp;ycle 3X2, 5X3, 6X4 Sample Slots" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1093" customTitle="Backlight" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40293" customTitle="Cycle 3X2, 5X3, 6X4 Sample Slots" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1095" customTitle="&amp;Options..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1095" customTitle="Options..." />
         </Menu>
         <Menu title="Medit - Utilities">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40274" customTitle="&amp;Render Map..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1096" customTitle="&amp;Select Objects by Material..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="40274" customTitle="Render Map..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="2" actionID="1096" customTitle="Select Objects by Material..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="132537306" actionID="1" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="4745576" actionID="1" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -1261,11 +1264,11 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="1995911490" actionID="0" />
         </Menu>
         <Menu title="Medit - Menu Bar">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="207" flat="0" customTitle="Mo&amp;des" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="131" flat="0" customTitle="&amp;Material" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="132" flat="0" customTitle="&amp;Navigation" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="133" flat="0" customTitle="&amp;Options" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="134" flat="0" customTitle="&amp;Utilities" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="207" flat="0" customTitle="Modes" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="131" flat="0" customTitle="Material" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="132" flat="0" customTitle="Navigation" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="133" flat="0" customTitle="Options" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="134" flat="0" customTitle="Utilities" />
         </Menu>
         <Menu title="Track View - Track Bar - Menu Bar">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="218" flat="0" customTitle="Editor" />
@@ -1277,37 +1280,37 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="230" flat="0" customTitle="Show" />
         </Menu>
         <Menu title="Switch View" flags="2">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40060" customTitle="&amp;Front View" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40064" customTitle="Bac&amp;k View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40060" customTitle="Front View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40064" customTitle="Back View" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40059" customTitle="&amp;Top View" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40063" customTitle="&amp;Bottom View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40059" customTitle="Top View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40063" customTitle="Bottom View" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40061" customTitle="&amp;Left View" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40062" customTitle="&amp;Right View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40061" customTitle="Left View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40062" customTitle="Right View" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40182" customTitle="&amp;Perspective View" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40183" customTitle="Isometric &amp;User View" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40068" customTitle="&amp;Camera View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40182" customTitle="Perspective View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40183" customTitle="Isometric User View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40068" customTitle="Camera View" />
         </Menu>
         <Menu title=" " flags="2" />
         <Menu title="Quad 3" flags="2" />
         <Menu title="Show / Hide" flags="2">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40191" customTitle="&amp;Shapes" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40190" customTitle="Geo&amp;metry" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40187" customTitle="&amp;Helpers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="372" customTitle="Fro&amp;zen Objects" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40191" customTitle="Shapes" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40190" customTitle="Geometry" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40187" customTitle="Helpers" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="372" customTitle="Frozen Objects" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40185" customTitle="&amp;Cameras" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40186" customTitle="&amp;Lights" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40185" customTitle="Cameras" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40186" customTitle="Lights" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40189" customTitle="&amp;Particle Systems" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40188" customTitle="Space &amp;Warps" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40184" customTitle="Adaptive Degradati&amp;on" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40189" customTitle="Particle Systems" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40188" customTitle="Space Warps" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40184" customTitle="Adaptive Degradation" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40077" customTitle="&amp;Grids" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="219" customTitle="Sa&amp;feframes" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="370" customTitle="Selection &amp;Brackets" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40077" customTitle="Grids" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="219" customTitle="Safeframes" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="370" customTitle="Selection Brackets" />
         </Menu>
         <Menu title="Trackbar - Editing Modes" />
         <Menu title="SchematicView - Align">
@@ -1528,11 +1531,11 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="AssetTrackingSystemToggle`Asset Tracking System" />
         </Menu>
         <Menu title="Asset Tracking - Menu Bar" flags="1">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="168" flat="0" customTitle="Ser&amp;ver" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="169" flat="0" customTitle="&amp;File" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="171" flat="0" customTitle="&amp;Paths" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="173" flat="0" customTitle="&amp;Bitmap Performance and Memory" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="170" flat="0" customTitle="Op&amp;tions" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="168" flat="0" customTitle="Server" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="169" flat="0" customTitle="File" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="171" flat="0" customTitle="Paths" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="173" flat="0" customTitle="Bitmap Performance and Memory" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="170" flat="0" customTitle="Options" />
         </Menu>
         <Menu title="File" flags="2">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="169" flat="1" />
@@ -1643,14 +1646,14 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="330" customTitle="Filters..." />
         </Menu>
         <Menu title="Track View - Options">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="InteractiveUpdate`Track View" customTitle="&amp;Interactive Update" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SyncTime`Track View" customTitle="&amp;Sync Cursor Time" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="InteractiveUpdate`Track View" customTitle="Interactive Update" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SyncTime`Track View" customTitle="Sync Cursor Time" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="113" flat="0" customTitle="Auto &amp;Expand" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="114" flat="0" customTitle="Auto &amp;Select" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="115" flat="0" customTitle="Auto S&amp;croll" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="113" flat="0" customTitle="Auto Expand" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="114" flat="0" customTitle="Auto Select" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="115" flat="0" customTitle="Auto Scroll" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2060" customTitle="Modify Sub&amp;tree Keys" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="2060" customTitle="Modify Subtree Keys" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Toggle_Modify_Children`Track View" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ManualNavigation`Track View" />
         </Menu>
@@ -1762,7 +1765,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="619" customTitle="Environment Background" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="620" customTitle="Custom Image File" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40095" customTitle="Configure Viewport &amp;Background..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40095" customTitle="Configure Viewport Background..." />
         </Menu>
         <Menu title="Tools - Align">
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -2073,14 +2076,14 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="612" />
         </Menu>
         <Menu title="Track View - Track Bar - Menu Bar (Classic)">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="100" flat="0" customTitle="&amp;Controller" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="110" flat="0" customTitle="&amp;Tracks" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="99" flat="0" customTitle="&amp;Keys" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="107" flat="0" customTitle="&amp;Curves" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="100" flat="0" customTitle="Controller" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="110" flat="0" customTitle="Tracks" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="99" flat="0" customTitle="Keys" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="107" flat="0" customTitle="Curves" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="177" flat="0" customTitle="Options" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="111" flat="0" customTitle="&amp;Display" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="111" flat="0" customTitle="Display" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="174" flat="0" customTitle="View" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="101" flat="0" customTitle="&amp;Utilities" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="101" flat="0" customTitle="Utilities" />
         </Menu>
         <Menu title="Track View - Editor">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SwitchToFCurveEditor`Track View" customTitle="Curve Editor ..." />
@@ -2200,15 +2203,15 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="230" flat="0" customTitle="Show" />
         </Menu>
         <Menu title="Track View - Dope Sheet - Menu Bar (Classic)">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="98" flat="0" customTitle="&amp;Modes" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="100" flat="0" customTitle="&amp;Controller" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="110" flat="0" customTitle="&amp;Tracks" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="99" flat="0" customTitle="&amp;Keys" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="104" flat="0" customTitle="&amp;Time" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="98" flat="0" customTitle="Modes" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="100" flat="0" customTitle="Controller" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="110" flat="0" customTitle="Tracks" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="99" flat="0" customTitle="Keys" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="104" flat="0" customTitle="Time" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="177" flat="0" customTitle="Options" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="176" flat="0" customTitle="Display" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="174" flat="0" customTitle="View" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="101" flat="0" customTitle="&amp;Utilities" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="101" flat="0" customTitle="Utilities" />
         </Menu>
         <Menu title="Track View - Tangents">
             <Item mode="2" modeName="AM_ITEM" actionTableID="1" actionID="487" />
@@ -2282,7 +2285,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="29771" actionID="27784" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="29771" actionID="40303" />
         </Menu>
-        <Menu title="&amp;Objects - Enhanced">
+        <Menu title="Objects - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="256" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="257" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="258" flat="0" />
@@ -2309,7 +2312,7 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="469" flat="0" customTitle="Fluids" />
         </Menu>
-        <Menu title="&amp;Edit - Enhanced">
+        <Menu title="Edit - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="273" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="274" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="275" flat="0" />
@@ -2320,7 +2323,7 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="280" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="281" flat="0" />
         </Menu>
-        <Menu title="M&amp;odifiers - Enhanced">
+        <Menu title="Modifiers - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="282" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="283" flat="0" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -2341,7 +2344,7 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="296" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="315" flat="0" />
         </Menu>
-        <Menu title="&amp;Animation - Enhanced">
+        <Menu title="Animation - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="297" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="298" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="339" flat="0" />
@@ -2372,27 +2375,27 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="470" flat="0" customTitle="Fluids" />
         </Menu>
-        <Menu title="&amp;Materials - Enhanced">
+        <Menu title="Materials - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="313" flat="0" customTitle="Create/Edit Materials" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="338" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="314" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="315" flat="0" customTitle="UVs, Maps and Materials Modifiers" />
         </Menu>
-        <Menu title="&amp;Lighting/Cameras - Enhanced">
+        <Menu title="Lighting/Cameras - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="263" flat="0" customTitle="Create Lights" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="316" flat="0" customTitle="Create Cameras" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="317" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="318" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="319" flat="0" />
         </Menu>
-        <Menu title="&amp;Rendering - Enhanced">
+        <Menu title="Rendering - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="320" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="321" flat="0" customTitle="Screen Capture" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="322" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="323" flat="0" customTitle="Review Renderings" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="324" flat="0" />
         </Menu>
-        <Menu title="&amp;Scene - Enhanced">
+        <Menu title="Scene - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="325" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="326" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="346" flat="0" customTitle="Choose Active State" />
@@ -2404,17 +2407,17 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="331" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="332" flat="0" customTitle="Tools (Scene Set)" />
         </Menu>
-        <Menu title="&amp;Customize - Enhanced">
+        <Menu title="Customize - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="333" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="349" flat="0" customTitle="Configure Mesh Inspector" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="334" flat="0" />
         </Menu>
-        <Menu title="&amp;Scripting">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="10707" customTitle="&amp;Install Max Creation Graph (.mcg) Package..." />
+        <Menu title="Scripting">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="10707" customTitle="Install Max Creation Graph (.mcg) Package..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="44354" customTitle="New Max &amp;Creation Graph " />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="64037" customTitle="O&amp;pen Max Creation Graph..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="54734" customTitle="Max Creation Graph E&amp;ditor" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="44354" customTitle="New Max Creation Graph " />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="64037" customTitle="Open Max Creation Graph..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="54734" customTitle="Max Creation Graph Editor" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MCG_CreateToolForObject`Max Creation Graph" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MCG_CreateToolForModifier`Max Creation Graph" />
@@ -2437,14 +2440,14 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="63589" />
         </Menu>
-        <Menu title="&amp;Help - Enhanced">
+        <Menu title="Help - Enhanced">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="336" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="335" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="347" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="337" flat="0" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="348" flat="0" />
         </Menu>
-        <Menu title="&amp;Primitives">
+        <Menu title="Primitives">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Box`Objects Primitives" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Cone`Objects Primitives" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Sphere`Objects Primitives" />
@@ -2472,7 +2475,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Hose`Objects Primitives" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Prism`Objects Primitives" />
         </Menu>
-        <Menu title="S&amp;hapes">
+        <Menu title="Shapes">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Lines`Objects Shapes" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Text`Objects Shapes" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Section`Objects Shapes" />
@@ -2648,7 +2651,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="UDeflector`Objects Space Warps" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Deflector`Objects Space Warps" />
         </Menu>
-        <Menu title="&amp;Characters and Bones">
+        <Menu title="Characters and Bones">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Biped`Objects Systems" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Bones`Inverse Kinematics" customTitle="Bone Chain" />
@@ -2678,14 +2681,14 @@
         <Menu title="Select">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40021" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40043" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40044" customTitle="Select &amp;Invert" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40044" customTitle="Select Invert" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40099" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SelectInstances`Selection" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50029" customTitle="Select By &amp;Name..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50029" customTitle="Select By Name..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40646" customTitle="Select By Layer..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40109" customTitle="Select By &amp;Color" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40109" customTitle="Select By Color" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="namedSelSets`Edit" customTitle="Manage Selection Sets" />
         </Menu>
@@ -2700,7 +2703,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="413" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40219" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40093" customTitle="&amp;Transform Type-In" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40093" customTitle="Transform Type-In" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="TransformTools`PolyTools" customTitle="Transform Tools" />
         </Menu>
         <Menu title="Edit Pivot">
@@ -2717,9 +2720,9 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40845" customTitle="Reset Working (W) Pivot" />
         </Menu>
         <Menu title="Duplicate">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40213" customTitle="&amp;Clone..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40213" customTitle="Clone..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40114" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40220" customTitle="Sna&amp;pshot..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40220" customTitle="Snapshot..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="30" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40907" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Scatter`Objects Compounds" />
@@ -2731,8 +2734,8 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Procutter`Objects Compounds" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ShapeMerge`Objects Compounds" />
         </Menu>
-        <Menu title="&amp;Group">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40140" customTitle="&amp;Group..." />
+        <Menu title="Group">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40140" customTitle="Group..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40141" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40142" />
@@ -2794,8 +2797,8 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Volumeselect`Modifiers" />
         </Menu>
         <Menu title="Spline">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CrossSection`Modifiers" customTitle="&amp;Cross Section" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Modifiers" customTitle="&amp;Surface" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CrossSection`Modifiers" customTitle="Cross Section" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Modifiers" customTitle="Surface" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Bevel`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Bevel_Profile`Modifiers" />
@@ -2825,10 +2828,10 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="WeightedNormalsMod`Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MultiRes`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Optimize`Modifiers" customTitle="&amp;Optimize" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Optimize`Modifiers" customTitle="Optimize" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ProOptimizerMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="QuadifyMeshMod`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="STL_Check`Modifiers" customTitle="S&amp;TL Check" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="STL_Check`Modifiers" customTitle="STL Check" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Tessellate`Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="DeleteMesh`Modifiers" />
@@ -2840,15 +2843,15 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="VertexWeld`Modifiers" />
         </Menu>
         <Menu title="Geometry (Parametric)">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Bend`Modifiers" customTitle="&amp;Bend" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Bend`Modifiers" customTitle="Bend" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Noise`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Ripple`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skew`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Stretch`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Spherify`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Squeeze`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Twist`Modifiers" customTitle="T&amp;wist" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Taper`Modifiers" customTitle="&amp;Taper" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Twist`Modifiers" customTitle="Twist" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Taper`Modifiers" customTitle="Taper" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Wave`Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Slice`Modifiers" />
@@ -2884,24 +2887,24 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SurfDeform`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SpaceSurfDeform`Modifiers" />
         </Menu>
-        <Menu title="&amp;NURBS">
+        <Menu title="NURBS">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="NSurf_Sel`Modifiers" />
         </Menu>
-        <Menu title="&amp;Patch">
+        <Menu title="Patch">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="DeletePatch`Modifiers" />
         </Menu>
         <Menu title="Animation Modifiers">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Attribute_Holder`Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Flex`Modifiers" customTitle="&amp;Flex" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Melt`Modifiers" customTitle="&amp;Melt" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Flex`Modifiers" customTitle="Flex" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Melt`Modifiers" customTitle="Melt" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Morpher`Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="PointCache`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="WPointCache`Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin`Modifiers" customTitle="&amp;Skin" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin`Modifiers" customTitle="Skin" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin_MorphMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin_WrapMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin_WrapPatchMod`Modifiers" />
@@ -2926,7 +2929,7 @@
         <Menu title="Cameras">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CameraCorrection`Modifiers" />
         </Menu>
-        <Menu title="Su&amp;bdivision Surfaces">
+        <Menu title="Subdivision Surfaces">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CreaseMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CreaseSetMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="HSDSModifier`Modifiers" />
@@ -2953,8 +2956,8 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="BoneAdjustmentTools`Animation Tools" customTitle="Bone Tools" />
         </Menu>
         <Menu title="Motion Editors">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchFCurveEditor`Track View" customTitle="Track View - &amp;Curve Editor" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchDopeSheetEditor`Track View" customTitle="Track View - &amp;Dope Sheet" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchFCurveEditor`Track View" customTitle="Track View - Curve Editor" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchDopeSheetEditor`Track View" customTitle="Track View - Dope Sheet" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ToggleMotionMixerDlg`Mixer" customTitle="Motion Mixer" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40278" />
@@ -2977,13 +2980,13 @@
         <Menu title="Constraints">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Path`Constraints" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LookAt`Constraints" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Position_Constraint`Constraints" customTitle="P&amp;osition Constraint" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Orientation_Constraint`Constraints" customTitle="O&amp;rientation Constraint" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Attachment`Constraints" customTitle="&amp;Attachment Constraint" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Constraints" customTitle="&amp;Surface Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Position_Constraint`Constraints" customTitle="Position Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Orientation_Constraint`Constraints" customTitle="Orientation Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Attachment`Constraints" customTitle="Attachment Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Constraints" customTitle="Surface Constraint" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LinkConstraint`Constraints" />
         </Menu>
-        <Menu title="&amp;Attributes">
+        <Menu title="Attributes">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Attribute_Holder`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Custom_Attributes`Customize User Interface" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ParamCollectorShow`Parameter Collector" />
@@ -3099,7 +3102,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="basic_material_editor`Medit Tools" customTitle="Compact Material Editor" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="advanced_material_editor`Medit Tools" customTitle="Slate Material Editor" />
         </Menu>
-        <Menu title="&amp;Tools (Material Set)">
+        <Menu title="Tools (Material Set)">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MaterialExplorerToggle`Material Explorer" customTitle="Material Explorer" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40312" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Channel_Info`Tools" customTitle="Channel Info" />
@@ -3108,7 +3111,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="AssetTrackingSystemToggle`Asset Tracking System" customTitle="Asset Tracking" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40209" />
         </Menu>
-        <Menu title="&amp;UVs, Maps and Materials">
+        <Menu title="UVs, Maps and Materials">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Uvwmap`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Unwrap_UVW`Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -3162,7 +3165,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="RenderA360Gallery`Render" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59244" customTitle="Render (Iterative)" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="348" customTitle="Open Render &amp;Window..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="348" customTitle="Open Render Window..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="60010" customTitle="Render Setup" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="29771" actionID="33764" customTitle="Manage State Sets..." />
@@ -3177,11 +3180,11 @@
         </Menu>
         <Menu title="Environment and Effects">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40029" customTitle="Environment and Exposure Settings" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40367" customTitle="Rendered Image E&amp;ffects..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40367" customTitle="Rendered Image Effects..." />
         </Menu>
         <Menu title="Review">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40403" customTitle="Compare Media in RAM Player" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40086" customTitle="&amp;View Media File..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40086" customTitle="View Media File..." />
         </Menu>
         <Menu title="Tools (Rendering Set)">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Sceneconverter`Show" />
@@ -3259,7 +3262,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="262" />
         </Menu>
         <Menu title="Grids and Snaps">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40024" customTitle="&amp;Grid and Snap Settings..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40024" customTitle="Grid and Snap Settings..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40072" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40078" />
@@ -3276,7 +3279,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="AssetTrackingSystemToggle`Asset Tracking System" />
         </Menu>
         <Menu title="Customization">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59226" customTitle="&amp;Customize User Interface..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59226" customTitle="Customize User Interface..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LoadScheme`Customize User Interface" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SaveScheme`Customize User Interface" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40484" />
@@ -3293,11 +3296,11 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40025" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40108" />
         </Menu>
-        <Menu title="S&amp;how UI">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="408" customTitle="Show &amp;Command Panel" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="412" customTitle="Show &amp;Floating Toolbars" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="411" customTitle="Show &amp;Main Toolbar" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="407" customTitle="Show Track &amp;Bar" />
+        <Menu title="Show UI">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="408" customTitle="Show Command Panel" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="412" customTitle="Show Floating Toolbars" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="411" customTitle="Show Main Toolbar" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="407" customTitle="Show Track Bar" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="60545" actionID="26914" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40264" />
@@ -3310,7 +3313,7 @@
         </Menu>
         <Menu title="Help - 3ds Max Services and Support">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_OnlineSupport`Help" customTitle="Support Center" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_ExchangeSolutions`Help" customTitle="&amp;Data Exchange Solutions" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_ExchangeSolutions`Help" customTitle="Data Exchange Solutions" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Certified_Graphic_Cards`Help" customTitle="Certified Hardware" />
         </Menu>
         <Menu title="Help - 3ds Max Resources and Tools">
@@ -3318,7 +3321,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_FBX_Review`Help" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Character_Generator`Help" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Viewport_GPU_Diagnostics`Viewport Lighting and Shadows" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="HotkeyFlash`Help" customTitle="&amp;Keyboard Shortcut Map" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="HotkeyFlash`Help" customTitle="Keyboard Shortcut Map" />
         </Menu>
         <Menu title="Create/Edit Maps">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ViewportCanvas`Viewport Canvas" customTitle="Paint Bitmap (Viewport Canvas)" />
@@ -3400,17 +3403,17 @@
         </Menu>
         <Menu title="Autodesk Product Information">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_3dsMax_Home`Help" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_Updates`Help" customTitle="Check for &amp;Updates" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_Updates`Help" customTitle="Check for Updates" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_Try_Other`Help" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40001" customTitle="A&amp;bout 3ds Max" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40001" customTitle="About 3ds Max" />
         </Menu>
         <Menu title="Mesh Validator">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="mesh_validator_toggle`Mesh Validator Tools" customTitle="Activate Mesh Inspector" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="mesh_validator_auto_repair`Mesh Validator Tools" customTitle="Mesh Auto Repair" />
         </Menu>
         <Menu title="Animation Resources" />
-        <Menu title="&amp;Edit">
+        <Menu title="Edit">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40015" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40016" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -3429,19 +3432,19 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40021" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40043" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40044" customTitle="Select &amp;Invert" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40044" customTitle="Select Invert" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40099" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SelectInstances`Selection" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="355" flat="0" customTitle="Select &amp;By" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="355" flat="0" customTitle="Select By" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="2" flat="0" customTitle="Selection Re&amp;gion" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="2" flat="0" customTitle="Selection Region" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="namedSelSets`Edit" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object &amp;Properties..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object Properties..." />
         </Menu>
-        <Menu title="&amp;Tools">
+        <Menu title="Tools">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SESceneExplorer`Scene Explorer" customTitle="Scene Explorer..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LayerManager`Layers" customTitle="Layer Explorer..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CreaseExplorerToggle`Crease Explorer" />
@@ -3461,10 +3464,10 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Light_List`Lights and Cameras" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40210" customTitle="&amp;Mirror..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40210" customTitle="Mirror..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40114" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="419" flat="0" customTitle="Align" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40220" customTitle="Sna&amp;pshot..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40220" customTitle="Snapshot..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="RenameObjects`Tools" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -3482,7 +3485,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Channel_Info`Tools" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="349" flat="0" customTitle="Mesh Inspector" />
         </Menu>
-        <Menu title="&amp;Group-Legacy">
+        <Menu title="Group-Legacy">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40140" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40141" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -3495,9 +3498,9 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40145" />
             <Item mode="1" modeName="AM_SEPARATOR" />
         </Menu>
-        <Menu title="&amp;Views">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40104" customTitle="&amp;Undo View Change" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40101" customTitle="&amp;Redo View Change" />
+        <Menu title="Views">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40104" customTitle="Undo View Change" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40101" customTitle="Redo View Change" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40117" customTitle="Active Viewport Settings" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40023" />
@@ -3536,16 +3539,16 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40264" />
         </Menu>
         <Menu title="Edit - Select By">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50029" customTitle="&amp;Name" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50029" customTitle="Name" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40646" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40109" />
         </Menu>
-        <Menu title="&amp;Rendering">
+        <Menu title="Rendering">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50031" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="RenderA360Setup`Render" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="RenderA360Gallery`Render" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="60010" customTitle="&amp;Render Setup..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="348" customTitle="Rendered Frame &amp;Window..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="60010" customTitle="Render Setup..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="348" customTitle="Rendered Frame Window..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="29771" actionID="33764" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="29771" actionID="57491" />
@@ -3562,7 +3565,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ScanlineRenderer_RaytraceGlobals`Render" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ScanlineRenderer_RaytraceGlobals_IncludeExclude`Render" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="BakeDialog`Render" customTitle="Render to &amp;Texture..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="BakeDialog`Render" customTitle="Render to Texture..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="1858480148" actionID="23214332" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="TextureTools`PolyTools" customTitle="Render Surface Map..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -3578,9 +3581,9 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="GammaSetup`Render" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="-1159893849" actionID="36864" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40403" customTitle="Compare Media in RAM &amp;Player..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40403" customTitle="Compare Media in RAM Player..." />
         </Menu>
-        <Menu title="Graph Editors - &amp;Track View">
+        <Menu title="Graph Editors - Track View">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40280" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40281" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40282" />
@@ -3595,7 +3598,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40291" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40292" />
         </Menu>
-        <Menu title="Graph Editors - &amp;Schematic View">
+        <Menu title="Graph Editors - Schematic View">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40431" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40432" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40433" />
@@ -3610,9 +3613,9 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40442" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40443" />
         </Menu>
-        <Menu title="C&amp;ustomize">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59226" customTitle="&amp;Customize User Interface..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59245" customTitle="Hot&amp;key Editor..." />
+        <Menu title="Customize">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59226" customTitle="Customize User Interface..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59245" customTitle="Hotkey Editor..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LoadScheme`Customize User Interface" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SaveScheme`Customize User Interface" />
@@ -3622,9 +3625,9 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40484" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="409" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="479" flat="0" customTitle="S&amp;how UI" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="480" flat="0" customTitle="Show E&amp;ditors" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="481" flat="0" customTitle="Show E&amp;xplorers" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="479" flat="0" customTitle="Show UI" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="480" flat="0" customTitle="Show Editors" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="481" flat="0" customTitle="Show Explorers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40209" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="41001" />
@@ -3635,13 +3638,13 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40108" />
         </Menu>
-        <Menu title="&amp;Help">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40036" customTitle="&amp;Autodesk 3ds Max Help" />
+        <Menu title="Help">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40036" customTitle="Autodesk 3ds Max Help" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="63512" customTitle="What&apos;s New" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="606" customTitle="Welcome Screen" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_LearningPath`Help" customTitle="Autodesk Learning Resources" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_Web_Area_learning`Help" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40218" customTitle="&amp;Plugin Help..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40218" customTitle="Plugin Help..." />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="468" flat="0" customTitle="Tutorials" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="483" flat="0" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -3653,7 +3656,7 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="337" flat="0" customTitle="3ds Max Resources and Tools" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="348" flat="0" />
         </Menu>
-        <Menu title="Animation - &amp;IK Solvers">
+        <Menu title="Animation - IK Solvers">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="HI_IK`Inverse Kinematics" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="HD_IK`Inverse Kinematics" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="IK_Limb`Inverse Kinematics" />
@@ -3722,9 +3725,9 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ShapeBoolean`Shapes Compounds" />
         </Menu>
-        <Menu title="Modifiers - Parametric &amp;Deformers">
+        <Menu title="Modifiers - Parametric Deformers">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Affect_Region`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Bend`Modifiers" customTitle="&amp;Bend" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Bend`Modifiers" customTitle="Bend" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Data_ChannelMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Displace`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Lattice`Modifiers" />
@@ -3741,8 +3744,8 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Stretch`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Spherify`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Squeeze`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Twist`Modifiers" customTitle="T&amp;wist" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Taper`Modifiers" customTitle="&amp;Taper" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Twist`Modifiers" customTitle="Twist" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Taper`Modifiers" customTitle="Taper" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SubstituteMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="XForm`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Wave`Modifiers" />
@@ -3756,17 +3759,17 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Spline_Select`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Delete_Spline`Modifiers" />
         </Menu>
-        <Menu title="Modifiers - &amp;World Space">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CameraMap`Modifiers" customTitle="&amp;CameraMap" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="PathDeform`Modifiers" customTitle="&amp;PathDeform" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="PatchDeform`Modifiers" customTitle="P&amp;atchDeform" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SurfDeform`Modifiers" customTitle="&amp;SurfDeform" />
+        <Menu title="Modifiers - World Space">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CameraMap`Modifiers" customTitle="CameraMap" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="PathDeform`Modifiers" customTitle="PathDeform" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="PatchDeform`Modifiers" customTitle="PatchDeform" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SurfDeform`Modifiers" customTitle="SurfDeform" />
         </Menu>
         <Menu title="Modifiers - Animation">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Attribute_Holder`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Flex`Modifiers" customTitle="&amp;Flex" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Flex`Modifiers" customTitle="Flex" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Linked_xform`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Melt`Modifiers" customTitle="&amp;Melt" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Melt`Modifiers" customTitle="Melt" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Morpher`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="PatchDeform`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="WPatchDeform`Modifiers" />
@@ -3775,7 +3778,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SplineMorphMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SplineOverlapMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="WPathDeform`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin`Modifiers" customTitle="&amp;Skin" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin`Modifiers" customTitle="Skin" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin_MorphMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin_WrapMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Skin_WrapPatchMod`Modifiers" />
@@ -3783,47 +3786,47 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SurfDeform`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SpaceSurfDeform`Modifiers" />
         </Menu>
-        <Menu title="Modifiers - &amp;Mesh Editing">
+        <Menu title="Modifiers - Mesh Editing">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Cap_Holes`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ChamferMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="DeleteMesh`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Edit_Mesh`Modifiers" customTitle="&amp;Edit Mesh" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Edit_Mesh`Modifiers" customTitle="Edit Mesh" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="EditNormals`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="EditPolyMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Extrude`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Face_Extrude`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MultiRes`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Normalmodifier`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Optimize`Modifiers" customTitle="&amp;Optimize" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Optimize`Modifiers" customTitle="Optimize" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ProOptimizerMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="QuadifyMeshMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Smooth`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="STL_Check`Modifiers" customTitle="S&amp;TL Check" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="STL_Check`Modifiers" customTitle="STL Check" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Symmetry`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Tessellate`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Vertex_Paint`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="VertexWeld`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="WeightedNormalsMod`Modifiers" />
         </Menu>
-        <Menu title="Modifiers - &amp;Patch/Spline Editing">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CrossSection`Modifiers" customTitle="&amp;Cross Section" />
+        <Menu title="Modifiers - Patch/Spline Editing">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CrossSection`Modifiers" customTitle="Cross Section" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="DeletePatch`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Delete_Spline`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Edit_Patch`Modifiers" customTitle="&amp;Edit Patch" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Edit_Patch`Modifiers" customTitle="Edit Patch" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Edit_Spline`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Fillet_Chamfer`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Spline_Chamfer`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Lathe`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Normalize_Spline`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="RenderableSPline`Modifiers" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Modifiers" customTitle="&amp;Surface" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Modifiers" customTitle="Surface" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SweepMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Trim_Extend`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="OptimizeSplineMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SplineMirrorMod`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SplineRelaxMod`Modifiers" />
         </Menu>
-        <Menu title="Modifiers - &amp;NURBS Editing">
+        <Menu title="Modifiers - NURBS Editing">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Disp_Approx`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SurfDeform`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="NSurf_Sel`Modifiers" />
@@ -3839,28 +3842,28 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="UvwmapClear`Modifiers" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="UVW_Xform`Modifiers" />
         </Menu>
-        <Menu title="Graph E&amp;ditors">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchFCurveEditor`Track View" customTitle="Track View - &amp;Curve Editor..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchDopeSheetEditor`Track View" customTitle="Track View - &amp;Dope Sheet..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40278" customTitle="&amp;New Track View..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40279" customTitle="&amp;Delete Track View..." />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="357" flat="0" customTitle="Saved &amp;Track Views" />
+        <Menu title="Graph Editors">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchFCurveEditor`Track View" customTitle="Track View - Curve Editor..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchDopeSheetEditor`Track View" customTitle="Track View - Dope Sheet..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40278" customTitle="New Track View..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40279" customTitle="Delete Track View..." />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="357" flat="0" customTitle="Saved Track Views" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40429" customTitle="&amp;New Schematic View..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40429" customTitle="New Schematic View..." />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40430" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="358" flat="0" customTitle="Saved &amp;Schematic Views" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="358" flat="0" customTitle="Saved Schematic Views" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="135018554" actionID="32771" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ToggleMotionMixerDlg`Mixer" />
         </Menu>
-        <Menu title="&amp;Animation">
+        <Menu title="Animation">
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="561" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="562" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="361" flat="0" customTitle="&amp;IK Solvers" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="361" flat="0" customTitle="IK Solvers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="377" flat="0" customTitle="&amp;Constraints" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="377" flat="0" customTitle="Constraints" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="386" flat="0" customTitle="Transform Controllers" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="387" flat="0" customTitle="Position Controllers" />
@@ -3875,7 +3878,7 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Custom_Attributes`Customize User Interface" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="ParamCollectorShow`Parameter Collector" customTitle="Parameter Collector..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="378" flat="0" customTitle="&amp;Wire Parameters" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="378" flat="0" customTitle="Wire Parameters" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="OpenAnimationLayers`Animation Tools" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -3895,27 +3898,27 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="walk_assist`Animation Tools" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="451" flat="0" />
         </Menu>
-        <Menu title="Animation - &amp;Constraints">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Attachment`Constraints" customTitle="&amp;Attachment Constraint" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Constraints" customTitle="&amp;Surface Constraint" />
+        <Menu title="Animation - Constraints">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Attachment`Constraints" customTitle="Attachment Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Surface`Constraints" customTitle="Surface Constraint" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Path`Constraints" customTitle="&amp;Path Constraint" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Position_Constraint`Constraints" customTitle="P&amp;osition Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Path`Constraints" customTitle="Path Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Position_Constraint`Constraints" customTitle="Position Constraint" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LinkConstraint`Constraints" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LookAt`Constraints" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Orientation_Constraint`Constraints" customTitle="O&amp;rientation Constraint" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Orientation_Constraint`Constraints" customTitle="Orientation Constraint" />
         </Menu>
-        <Menu title="Animation - &amp;Wire Parameters">
+        <Menu title="Animation - Wire Parameters">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="paramWire`Parameter Wire" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="paramWire_dialog`Parameter Wire" />
         </Menu>
-        <Menu title="Customize - S&amp;how UI">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="408" customTitle="Show &amp;Command Panel" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="412" customTitle="Show &amp;Floating Toolbars" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="411" customTitle="Show &amp;Main Toolbar" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="407" customTitle="Show Track &amp;Bar" />
+        <Menu title="Customize - Show UI">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="408" customTitle="Show Command Panel" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="412" customTitle="Show Floating Toolbars" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="411" customTitle="Show Main Toolbar" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="407" customTitle="Show Track Bar" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="60545" actionID="26914" />
         </Menu>
         <Menu title="Modifiers - Selection Modifiers">
@@ -3953,16 +3956,16 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Material_By_Element`Modifiers" />
         </Menu>
         <Menu title="Character">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CreateCharacter`Characters" customTitle="&amp;Create Character" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="DestroyCharacter`Characters" customTitle="&amp;Destroy Character" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="CreateCharacter`Characters" customTitle="Create Character" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="DestroyCharacter`Characters" customTitle="Destroy Character" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LockCharacter`Characters" customTitle="&amp;Lock" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="UnLockCharacter`Characters" customTitle="&amp;Unlock" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LockCharacter`Characters" customTitle="Lock" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="UnLockCharacter`Characters" customTitle="Unlock" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="InsertCharacter`Characters" customTitle="&amp;Insert Character..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SaveCharacter`Characters" customTitle="S&amp;ave Character..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="InsertCharacter`Characters" customTitle="Insert Character..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SaveCharacter`Characters" customTitle="Save Character..." />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="BoneAdjustmentTools`Animation Tools" customTitle="&amp;Bone Tools" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="BoneAdjustmentTools`Animation Tools" customTitle="Bone Tools" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SetSkinPose`Characters" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="AssumeSkinPose`Characters" />
@@ -4161,7 +4164,7 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="406" flat="0" customTitle="Deflectors" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="407" flat="0" customTitle="Geometric/Deformable" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="408" flat="0" customTitle="Modifier-Based" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="414" flat="0" customTitle="Particles &amp;&amp; Dynamics" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="414" flat="0" customTitle="Particles  Dynamics" />
         </Menu>
         <Menu title="Create - SpaceWarps.Forces">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Motor`Objects Space Warps" />
@@ -4340,8 +4343,8 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="PxRemoveClothMS`PhysX" />
         </Menu>
         <Menu title="Create">
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="362" flat="0" customTitle="&amp;Standard Primitives" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="363" flat="0" customTitle="E&amp;xtended Primitives" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="362" flat="0" customTitle="Standard Primitives" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="363" flat="0" customTitle="Extended Primitives" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="394" flat="0" customTitle="AEC Objects" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="395" flat="0" customTitle="Compound" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="364" flat="0" customTitle="Particles" />
@@ -4350,11 +4353,11 @@
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="445" flat="0" customTitle="Point Cloud" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="398" flat="0" customTitle="Dynamics" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="366" flat="0" customTitle="S&amp;hapes" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="366" flat="0" customTitle="Shapes" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="416" flat="0" customTitle="Extended Shapes" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="365" flat="0" customTitle="&amp;Lights" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="391" flat="0" customTitle="&amp;Cameras" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="365" flat="0" customTitle="Lights" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="391" flat="0" customTitle="Cameras" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="399" flat="0" customTitle="Helpers" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="404" flat="0" customTitle="SpaceWarps" />
@@ -4365,8 +4368,8 @@
         <Menu title="Modifiers">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="380" flat="0" customTitle="Selection Modifiers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="372" flat="0" customTitle="&amp;Patch/Spline Editing" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="371" flat="0" customTitle="&amp;Mesh Editing" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="372" flat="0" customTitle="Patch/Spline Editing" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="371" flat="0" customTitle="Mesh Editing" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="412" flat="0" customTitle="Conversion" />
             <Item mode="1" modeName="AM_SEPARATOR" />
@@ -4384,15 +4387,17 @@
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="381" flat="0" customTitle="Free Form Deformers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="367" flat="0" customTitle="Parametric &amp;Deformers" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="367" flat="0" customTitle="Parametric Deformers" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="384" flat="0" customTitle="Surface" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="373" flat="0" customTitle="&amp;NURBS Editing" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="373" flat="0" customTitle="NURBS Editing" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="392" flat="0" customTitle="Radiosity" />
             <Item mode="1" modeName="AM_SEPARATOR" />
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="413" flat="0" customTitle="Cameras" />
+            <Item mode="1" modeName="AM_SEPARATOR" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="485" flat="0" />
         </Menu>
         <Menu title="MassFX ">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="425" flat="0" customTitle="Rigid Bodies" />
@@ -4730,50 +4735,50 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="-891545229" actionID="2" />
         </Menu>
         <Menu title="Spacebar" flags="2">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59231" customTitle="Lock Selectio&amp;n" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="59231" customTitle="Lock Selection" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40126" customTitle="&amp;Disable Viewport" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50026" customTitle="&amp;Maximize Viewport" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40126" customTitle="Disable Viewport" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50026" customTitle="Maximize Viewport" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50021" customTitle="&amp;Play Animation" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50021" customTitle="Play Animation" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="39081" actionID="32653" customTitle="&amp;Search" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="39081" actionID="32653" customTitle="Search" />
         </Menu>
         <Menu title="Quad 2" flags="2" />
         <Menu title="Quad 3" flags="2" />
         <Menu title="Quad 4" flags="2" />
         <Menu title="Editors" flags="2">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="480" flat="1" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="339" flat="0" customTitle="&amp;Track View" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="328" flat="0" customTitle="&amp;Schematic View" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="339" flat="0" customTitle="Track View" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="328" flat="0" customTitle="Schematic View" />
         </Menu>
         <Menu title="Quad 2" flags="2" />
         <Menu title="Explorers" flags="2">
             <Item mode="4" modeName="AM_SUBMENU" subMenuID="481" flat="1" />
         </Menu>
         <Menu title="UI">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="408" customTitle="&amp;Command Panel" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="60545" actionID="26914" customTitle="&amp;Ribbon" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="408" customTitle="Command Panel" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="60545" actionID="26914" customTitle="Ribbon" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="2071557443" actionID="1" customTitle="Shared Views" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="UI_TimeSlider_Toggle`Customize User Interface" customTitle="Time Slider" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="64959" actionID="61211" customTitle="&amp;Viewport Layout Tabs" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="64959" actionID="61211" customTitle="Viewport Layout Tabs" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="4" modeName="AM_SUBMENU" subMenuID="471" flat="0" customTitle="&amp;Floating Viewports" />
+            <Item mode="4" modeName="AM_SUBMENU" subMenuID="471" flat="0" customTitle="Floating Viewports" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="411" customTitle="&amp;Main Toolbar" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="412" customTitle="&amp;Floating Toolbars" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="411" customTitle="Main Toolbar" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="412" customTitle="Floating Toolbars" />
         </Menu>
         <Menu title="Show Editors">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50048" customTitle="&amp;Material Editor" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchFCurveEditor`Track View" customTitle="&amp;Curve Editor" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchDopeSheetEditor`Track View" customTitle="&amp;Dope Sheet" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="54734" customTitle="Max Creation &amp;Graph Editor" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Custom_Attributes`Customize User Interface" customTitle="Parameter &amp;Editor" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="50048" customTitle="Material Editor" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchFCurveEditor`Track View" customTitle="Curve Editor" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="LaunchDopeSheetEditor`Track View" customTitle="Dope Sheet" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="62682" actionID="54734" customTitle="Max Creation Graph Editor" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Custom_Attributes`Customize User Interface" customTitle="Parameter Editor" />
             <Item mode="1" modeName="AM_SEPARATOR" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="AssetTrackingSystemToggle`Asset Tracking System" customTitle="&amp;Asset Tracking" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Light_List`Lights and Cameras" customTitle="&amp;Light Lister" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="&amp;Object Properties" />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="135018554" actionID="32771" customTitle="&amp;Particle View" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="AssetTrackingSystemToggle`Asset Tracking System" customTitle="Asset Tracking" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Light_List`Lights and Cameras" customTitle="Light Lister" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="0" actionID="40022" customTitle="Object Properties" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="135018554" actionID="32771" customTitle="Particle View" />
         </Menu>
         <Menu title="Show Explorers">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SESceneExplorer`Scene Explorer" customTitle="Scene Explorer" />
@@ -4786,9 +4791,9 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="SERevitPropertyExplorer`Scene Explorer" customTitle="Revit Property Explorer" />
         </Menu>
         <Menu title="Texture Tools">
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="BakeDialog`Render" customTitle="Render to &amp;Texture..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="1858480148" actionID="23214332" customTitle="&amp;Bake To Texture..." />
-            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="TextureTools`PolyTools" customTitle="Render &amp;Surface Map" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="BakeDialog`Render" customTitle="Render to Texture..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="1858480148" actionID="23214332" customTitle="Bake To Texture..." />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="TextureTools`PolyTools" customTitle="Render Surface Map" />
         </Menu>
         <Menu title="3ds Max Developer Resources">
             <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="Help_3ds_Max_Developer_Help`Help" />
@@ -4801,6 +4806,13 @@
             <Item mode="2" modeName="AM_ITEM" actionTableID="-623044237" actionID="2" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="-623044237" actionID="3" />
             <Item mode="2" modeName="AM_ITEM" actionTableID="-623044237" actionID="4" />
+        </Menu>
+        <Menu title="Retopology Tools">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="RetopologyModifier`Modifiers" />
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MeshCleanerModifier`Modifiers" />
+        </Menu>
+        <Menu title="Civil View">
+            <Item mode="2" modeName="AM_ITEM" actionTableID="647394" actionID="MCRinitialize`Civil View" customTitle="Initialize Civil View..." />
         </Menu>
         <QuadMenu>
             <Item menuID="4" title="Common" />

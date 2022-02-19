@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ADSK_MUS>
+    <CustomizeMouse>
+        <AutoFocusViewportOnKeyPress value="1" />
+        <MayaSelectionMode value="1" />
+        <UseNearestPreviewSelection value="0" />
+        <IgnoreBackVertsAndEdgesInShadedViewportPicking value="0" />
+        <LockArcRotate value="1" />
+        <MiddleBtnStroke value="0" />
+        <ZoomWheelIncrement value="1.000000" />
+        <ZoomAboutMousePointOrthographic value="0" />
+        <ZoomAboutMousePointPerspective value="0" />
+        <RightClickMenuOverSelectedOnly value="0" />
+        <ZoomInDirection value="6" />
+        <PanShortCut value="Alt+MMB" />
+        <ZoomShortCut value="Alt+RMB" />
+        <RotateShortCut value="Alt+LMB" />
+    </CustomizeMouse>
+</ADSK_MUS>

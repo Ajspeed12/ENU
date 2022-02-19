@@ -1,6 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ADSK_CUI>
     <CUIWindows>
+        <Window objectName="ProjectsToolbar" name="Projects" type="N" cType="1" />
         <Window objectName="Main Toolbar" name="Main Toolbar" type="T" cType="1" toolbarRows="1">
             <Items>
                 <Item typeID="0" type="CTB_PUSHBUTTON" controlID="50034" helpID="0" orientation="31" captionVisibility="0" iconName="MainUI/Undo" />
@@ -63,7 +64,7 @@
                 <Item typeID="1" type="CTB_CHECKBUTTON" controlID="280" helpID="0" orientation="31" captionVisibility="0" iconName="SnapsControls/SpinnerSnapToggle" />
                 <Item typeID="3" type="CTB_SEPARATOR" width="6" height="16" orientation="31" visible="1" />
                 <Item typeID="2" type="CTB_MACROBUTTON" width="0" height="0" controlID="0" macroTypeID="4" macroType="MB_TYPE_ACTION_CUSTOM" actionTableID="647394" iconName="MainUI/EditNamedSelectionSets" actionID="namedSelSets`Edit" tip="Edit Named Selection Sets" label="" />
-                <Item typeID="5" type="CTB_OTHER" width="120" height="120" controlID="50037" helpID="0" orientation="19" vertJustif="2" winStyle="1344275266" controlClassName="ComboBox" winText="" />
+                <Item typeID="5" type="CTB_OTHER" width="120" height="120" controlID="50037" helpID="0" orientation="19" vertJustif="2" winStyle="1344275266" controlClassName="ComboBox" winText="Create Selection Set" />
                 <Item typeID="3" type="CTB_SEPARATOR" width="6" height="16" orientation="31" visible="1" />
                 <Item typeID="0" type="CTB_PUSHBUTTON" controlID="40210" helpID="0" orientation="31" captionVisibility="0" iconName="MainUI/Mirror" />
                 <Item typeID="1" type="CTB_CHECKBUTTON" controlID="50012" helpID="0" orientation="31" captionVisibility="0" iconName="MainUI/Align">
@@ -225,6 +226,5 @@
                 <Item typeID="2" type="CTB_MACROBUTTON" width="0" height="0" controlID="0" macroTypeID="4" macroType="MB_TYPE_ACTION_CUSTOM" actionTableID="647394" iconName="MassFX/AdvanceSimulationOneFrame" actionID="PxStepSimMS`PhysX" tip="Next Simulation Frame" label="Step Simulation" />
             </Items>
         </Window>
-        <Window objectName="ProjectsToolbar" name="Projects" type="N" cType="1" />
     </CUIWindows>
 </ADSK_CUI>
