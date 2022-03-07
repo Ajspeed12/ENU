@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8" ?>
 <ADSK_MNU>
     <MenuContexts>
         <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1" title="Main Menu Bar" menuID="0" />
@@ -83,6 +83,7 @@
         <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1744264583" title="" />
         <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1163576136" title="" />
         <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="1101794312" title="Arnold" />
+        <MenuContext type="0" typeName="kMenuContextMenuBar" contextID="801581099" title="Radially" />
     </MenuContexts>
     <MenuManager>
         <Menu title="Main Menu Bar" flags="1">

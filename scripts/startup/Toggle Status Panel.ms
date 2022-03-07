@@ -1,0 +1,1 @@
+statusPanel.visible = not (statusPanel.visible)

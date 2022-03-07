@@ -1,0 +1,1 @@
+max snap toggle

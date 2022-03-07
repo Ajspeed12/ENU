@@ -1,0 +1,1 @@
+editablePoly_defaultsSetter = NodeEventCallback mouseUp:on modelStructured:(fn _ e ids = for id in ids where isKindOf (local node = GetAnimByHandle id) Editable_Poly do node.edgeChamferSmooth = off)
